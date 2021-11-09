@@ -1,0 +1,30 @@
+*, html, body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  box-sizing: border-box;
+  list-style: none;
+}
+.carousel{
+  width: 1000px;
+}
+.d-block{
+  width: 100%;
+  height: auto;
+}
+.n{
+  padding-top: 50px;
+}
+.card-img-top{
+  width: 100%;
+  height: auto;
+}
+.card{
+  width: 400px;
+  height: 550px;
+}
+.n5{
+  padding-top: 50px;
+  display: flex;
+  justify-content: space-around;
+}
